@@ -1,0 +1,18 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+#container{
+    background-color: cadetblue;
+    padding:1rem;
+}
+
+.dragItem{
+    background-color: white;
+    padding:1rem;
+    margin:1rem;    
+    cursor: pointer;
+    text-align: center;
+    width:200px;
+}
